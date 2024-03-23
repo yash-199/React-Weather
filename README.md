@@ -1,4 +1,4 @@
-# Classy Weather App
+# Classy Weather App (React)
 Welcome to Classy Weather! This is a simple React application that fetches weather data based on location input. You can search for a location, and it will display the weather forecast for the upcoming days.
 
 # Features:
